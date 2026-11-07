@@ -1,0 +1,26 @@
+# Relatorio, docs de design e evidencias: apenas locais, NUNCA no git
+/relatorio/
+/docs/
+parte1/evidencias/
+parte2/evidencias/
+
+# Chaves e material secreto
+*.key
+parte1/aes.key.hex
+parte1/aes.iv.hex
+parte1/chave_errada.hex
+
+# Artefatos regenerados por run_all.sh
+*.pem
+*.srl
+*.bin
+parte1/documento.gcm
+parte1/documento.tag.hex
+parte1/documento.recuperado.txt
+parte1/documento_tamper.gcm
+parte2/documento_adulterado.txt
+parte2/ext_entidade.cnf
+
+# Python
+__pycache__/
+*.pyc
