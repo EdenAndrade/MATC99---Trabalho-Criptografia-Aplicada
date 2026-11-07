@@ -1,0 +1,19 @@
+CONTRATO DE PRESTACAO DE SERVICOS No 2026/047
+=============================================
+
+CONTRATANTE: Distribuidora Andrade ME
+CONTRATADA: XYZW LTDA
+DATA: 06/11/2026
+
+CLAUSULA 1 - OBJETO
+Prestacao de servicos continuados de suporte tecnico e administracao
+de infraestrutura de redes, pelo periodo de 12 (doze) meses.
+
+CLAUSULA 2 - REMUNERACAO
+VALOR=100 (em milhares de reais, mensais)
+Vencimento em 5 dias contados do faturamento mensal.
+
+CLAUSULA 3 - VIGENCIA
+12 meses a contar da assinatura, com reajuste anual pelo IPCA.
+
+Contato: comercial@xyzw.example
