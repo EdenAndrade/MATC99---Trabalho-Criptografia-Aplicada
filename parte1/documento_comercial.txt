@@ -1,0 +1,22 @@
+PROPOSTA COMERCIAL No 2026/047
+==============================
+
+EMPRESA: XYZW LTDA
+CLIENTE: Distribuidora Andrade ME
+DATA: 06/11/2026
+VALIDADE: 15 dias
+
+1. OBJETO
+Prestacao de servicos continuados de suporte tecnico e administracao
+de infraestrutura de redes, pelo periodo de 12 (doze) meses.
+
+2. VALORES
+VALOR MENSAL: R$ 4.800,00
+VALOR TOTAL (12x): R$ 57.600,00
+
+3. CONDICOES
+- Faturamento mensal, vencimento em 5 dias;
+- SLA de atendimento de 8 horas uteis;
+- Reajuste anual pelo IPCA.
+
+Contato: comercial@xyzw.example
